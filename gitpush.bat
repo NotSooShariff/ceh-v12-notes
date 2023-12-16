@@ -5,5 +5,5 @@ git add .
 git commit -m "%message%"
 git push origin master
 color 02
-Pushed Successfully!
+echo Pushed Successfully!
 color 07
