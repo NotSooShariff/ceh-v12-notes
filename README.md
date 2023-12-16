@@ -164,7 +164,7 @@ A repository for CEHv12 Notes in bullet points for skimming through content quic
 
 ## Note
 
-Most of the content was forked from a repository I no longer have the source to. Reach out to me for credit.
+Most of the content in the theory section was forked from a repository I no longer have the source to. Reach out to me for credit.
 
 [Jump to top ↑](#content)
 
