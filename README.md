@@ -167,10 +167,3 @@ A repository for CEHv12 Notes in bullet points for skimming through content quic
 Most of the content in the theory section was forked from a repository I no longer have the source to. Reach out to me for credit.
 
 [Jump to top ↑](#content)
-
-
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=NotSooShariff&&style=flat-square" align="center" />
-</div>  
-  
